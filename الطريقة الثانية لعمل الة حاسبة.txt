@@ -1,0 +1,22 @@
+// Button Artimatic /
+ private void button16_Click(object sender, EventArgs e)
+        {
+            b = Double.Parse(textBox1.Text);
+            textBox2.Text = b.ToString();
+            textBox2.Text += "/";
+            button14.Text = "/";
+            textBox1.Clear();
+	}
+
+
+ // Button =
+        private void button13_Click(object sender, EventArgs e)
+        {
+            a = Double.Parse(textBox1.Text);
+            textBox2.Text += a.ToString();
+            textBox1.Clear();
+            double sum;
+            if (button16.Text == "/")
+              textBox1.Text=  (sum = a / b).ToString();
+
+        }

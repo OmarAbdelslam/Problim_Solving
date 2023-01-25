@@ -1,0 +1,33 @@
+ Console.Title = "مراجعة";
+            Console.Beep();
+            Console.WriteLine("this is Questions Number 1 \t");
+            Console.WriteLine("This Array Contain on 25 index ");
+            Console.WriteLine("-----------------------------------------\n");
+            Console.WriteLine("Enter The Fife index");
+            int[] Line1 = new int[25];
+            int t;
+            for (int d=0;d<5;d++)
+            {
+                t = int.Parse(Console.ReadLine());
+                Line1[d] = t;
+            }
+            for (int r = 0; r < Line1.Length; r++)
+                Console.WriteLine(Line1[r]);
+            Console.WriteLine("this is Questions Number 2 \n");
+            Console.WriteLine("This Array Contain on 5 index ");
+            Console.WriteLine("-----------------------------------------\n");
+
+            Console.WriteLine("Enter The Fife Number");
+                int[] Line2 = new int[5];
+                for (int a = 0; a < 5; a++)
+                {
+                    int w = int.Parse(Console.ReadLine());
+                    Line2[a] = w;
+
+                }
+            //for (int r = 0; r < Line.Length; r++)
+            //    Console.WriteLine(Line[r]);
+            for (int e = 4; e >= 0; e--)
+            {
+                Console.WriteLine(Line2[e]);
+            }

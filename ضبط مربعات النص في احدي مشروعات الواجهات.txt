@@ -1,0 +1,239 @@
+
+        private void RemoveText1(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText1(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText2(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText2(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText3(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText3(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText4(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText4(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText5(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText5(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText6(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText6(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText7(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText7(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText8(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText8(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText9(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText9(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText10(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText10(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText11(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText11(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText12(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText12(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText13(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText13(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
+        private void RemoveText14(object sender, EventArgs e)
+        {
+            if (textBox1.Focus())
+            {
+                textBox1.ForeColor = Color.Black;
+                textBox1.Text = "";
+            }
+        }
+        private void AddText14(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Focused.ToString(), "ADD");
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                textBox1.Text = "Enter Number Book....";
+                textBox1.ForeColor = Color.OliveDrab;
+            }
+        }
